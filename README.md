@@ -4,7 +4,7 @@
 
 Bachelor's student in Computer Science at **Guizhou University, China**.  
 Passionate about cybersecurity, digital forensics, and building security tools.  
-Currently working on a **Website Security Scanner SaaS** and an **AI-powered Forex trading bot**.
+Currently working on a **Website Security Scanner SaaS** 
 
 ---
 
@@ -43,7 +43,7 @@ Full police-style digital forensic investigation of a real criminal case scenari
 - Produced a court-ready forensic report following PACE guidelines
 
 **Tools:** Autopsy · FTK Imager · WinRAR · OpenPuff · Windows Registry Recovery  
-📂 [View Repository](#) *(link coming soon)*
+
 
 ---
 
@@ -55,7 +55,7 @@ Three-scenario practical forensic investigation covering different domains of di
 - **Scenario 3:** Email forensics on .PST file — analysed email headers, identified unknown vs legitimate mail servers (WHOIS), investigated mobile device for web history and hidden media evidence
 
 **Tools:** HxD Hex Editor · FTK Imager · Autopsy · WHOIS Lookup · mobile forensics  
-📂 [View Repository](#) *(link coming soon)*
+
 
 ---
 
@@ -74,7 +74,7 @@ Built a full virtual company network environment and simulated 5 real-world cybe
 - Network Enumeration — Nmap/DNS enum detected, IPS blocking configured
 
 **Tools:** Suricata · Wazuh · Wireshark · Metasploit · pfSense · Kali Linux · Windows Server  
-📂 [View Repository](#) *(uploading soon)*
+
 
 ---
 
@@ -87,7 +87,6 @@ Designed and built a custom Python script applying the Pareto Principle (80/20 r
 - Cross-platform log parsing with unified output for network administrators
 
 **Tools:** Python · CentOS · Windows log analysis · network traffic parsing  
-📂 [View Repository](#) *(uploading soon)*
 
 ---
 
@@ -100,7 +99,7 @@ Configured a multi-router network topology from scratch.
 - Applied security hardening: encrypted passwords, login banners, SSH access
 
 **Tools:** Cisco IOS · Packet Tracer · RIPv2 · DHCP · SSH  
-📂 [View Repository](#) *(link coming soon)*
+
 
 ---
 
@@ -112,7 +111,7 @@ Building a web-based security scanner for OWASP Top 10 vulnerabilities with AI-p
 - AI-powered vulnerability reporting (planned)
 - SaaS model with free tier for small businesses
 
-📂 [View Repository](#) *(in development — follow to stay updated)*
+
 
 ---
 
@@ -124,7 +123,7 @@ Building an automated EUR/USD trading bot using Python and machine learning.
 - Risk management module with stop-loss logic
 - Backtesting framework to evaluate strategy performance
 
-📂 [View Repository](#) *(in development)*
+
 
 ---
 
